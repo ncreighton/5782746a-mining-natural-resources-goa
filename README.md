@@ -1,2 +1,28 @@
-# 5782746a-mining-natural-resources-goa
-Stop chasing arbitrary targets that don't align with volatile commodity prices or shifting environmental regulations. This template translates mining-specific KPIs — from ore grade targets to safety incident rates — into a dynamic OKR framework that adapts with your operation.  Built for the unique cadence of mining and natural resources, this Noti
+# Mining & Natural Resources Goal Setting and OKR Framework Notion Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/3cI28r6mX8Isg8833md0k0C)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/3cI28r6mX8Isg8833md0k0C)
+
